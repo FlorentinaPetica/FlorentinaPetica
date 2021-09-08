@@ -4,7 +4,7 @@
 **FlorentinaPetica/FlorentinaPetica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### About me I can say that, I embrace challenge and I always seek to learn new things.**
+### About me I can say that, I embrace challenge and I always seek to learn new things.
 
 - 🔭 I’m currently a student at Hack Your Future Copenhagen.
 - 🌱 I’m currently studying web-development.
@@ -18,7 +18,7 @@
 
 <br />
 
-<a href = "mailto:florentina.petica@gmail.com?subject = Feedback&body = Message">:e-mail:   florentina.petica@gmail.com</a>
+<span>:e-mail:</span><a href = "mailto:florentina.petica@gmail.com?subject = Feedback&body = Message">florentina.petica@gmail.com</a>
 
 ### Tools and languages i learned so far:
 
