@@ -11,8 +11,6 @@
 - ⚡ Fun fact: I like playing table tennis. 
 
 ### 📫 How to reach me: 
-<br />
-<br />
 
 <a href="https://www.linkedin.com/in/florentina-petica-161286166/">
   <img align="left" alt="Florentina-Petica LinkdeIN" width="16px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />LinkeIn
