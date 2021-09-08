@@ -8,10 +8,17 @@
 
 - 🔭 I’m currently a student at Hack Your Future Copenhagen.
 - 🌱 I’m currently studying web-development.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/florentina-petica-161286166/">
+- ⚡ Fun fact: I like playing table tennis. 
+
+###📫 How to reach me: 
+<br />
+<a href="https://www.linkedin.com/in/florentina-petica-161286166/">
   <img align="left" alt="Florentina-Petica LinkdeIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-- ⚡ Fun fact: I like playing table tennis. 
+<a href = "mailto:florentina.petica@gmail.com?subject = Feedback&body = Message">
+Send E-mail
+</a>
+
  <br />
 
 ### Tools and languages i learned so far:
