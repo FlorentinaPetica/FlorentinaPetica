@@ -10,7 +10,7 @@
 - 🌱 I’m currently studying web-development.
 - ⚡ Fun fact: I like playing table tennis. 
 
-###📫 How to reach me: 
+### 📫 How to reach me: 
 <br />
 <br />
 
