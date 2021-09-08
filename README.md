@@ -18,7 +18,7 @@
 
 <br />
 
-<span>:e-mail:</span><a href = "mailto:florentina.petica@gmail.com?subject = Feedback&body = Message">florentina.petica@gmail.com</a>
+<span>:e-mail:</span><a href = "mailto:florentina.petica@gmail.com?subject = Feedback&body = Message">  florentina.petica@gmail.com</a>
 
 ### Tools and languages i learned so far:
 
