@@ -16,7 +16,7 @@
   <img align="left" alt="Florentina-Petica LinkdeIN" width="16px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
-<a href = "mailto:florentina.petica@gmail.com?subject = Feedback&body = Message"><img src=':e-mail:'></img> florentina.petica@gmail.com</a>
+<a href = "mailto:florentina.petica@gmail.com?subject = Feedback&body = Message">:e-mail: florentina.petica@gmail.com</a>
 
  <br />
 
