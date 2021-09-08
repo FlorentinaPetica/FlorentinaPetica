@@ -1,10 +1,10 @@
-### Hi there 👋 I'm Florentina
+## Hi there 👋 I'm Florentina
 
 <!--
 **FlorentinaPetica/FlorentinaPetica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## About me I can say that, I embrace challenge and I always seek to learn new things.**
+### About me I can say that, I embrace challenge and I always seek to learn new things.**
 
 - 🔭 I’m currently a student at Hack Your Future Copenhagen.
 - 🌱 I’m currently studying web-development.
@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I like playing table tennis. 
  <br />
 
-## Tools and languages i learned so far:
+### Tools and languages i learned so far:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
