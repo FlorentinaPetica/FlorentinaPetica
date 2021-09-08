@@ -12,8 +12,8 @@
 
 ###📫 How to reach me: 
 <br />
-<a href="https://www.linkedin.com/in/florentina-petica-161286166/">
-  <img align="left" alt="Florentina-Petica LinkdeIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/florentina-petica-161286166/">LinkeIn
+  <img align="left" alt="Florentina-Petica LinkdeIN" width="16px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
 <a href = "mailto:florentina.petica@gmail.com?subject = Feedback&body = Message">:e-mail: florentina.petica@gmail.com</a>
