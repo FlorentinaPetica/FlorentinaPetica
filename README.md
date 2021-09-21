@@ -4,10 +4,10 @@
 **FlorentinaPetica/FlorentinaPetica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### About me I can say that, I embrace challenge and I always seek to learn new things.
+### About me I can say that I have good collaboration skills, and I always seek to learn new things.
 
 - 🔭 I’m currently a student at Hack Your Future Copenhagen.
-- 🌱 I’m currently studying web-development.
+- 🌱 I'm currently studying web-development.
 - ⚡ Fun fact: I like playing table tennis. 
 
 ### 📫 How to reach me: 
