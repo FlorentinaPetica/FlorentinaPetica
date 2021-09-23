@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently a student at Hack Your Future Copenhagen.
 - 🌱 I'm currently studying web-development.
-- ⚡ Fun fact: I like playing table tennis. 
+- ⚡ Fun fact: From all the programming languages I've learned so far. Danish is still the hardest :).
 
 ### 📫 How to reach me: 
 
