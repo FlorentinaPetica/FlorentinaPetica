@@ -6,8 +6,8 @@
 
 ### About me I can say that I have good collaboration skills, and I always seek to learn new things.
 
-- 🔭 I’m currently a student at Hack Your Future Copenhagen.
-- 🌱 I'm currently studying web-development.
+- 🔭 I have studied at Hack Your Future Copenhagen.
+- 🌱 I'm currently working as frontend developer with Angular and TypeScript.
 - ⚡ Fun fact: From all the programming languages I've learned so far. Danish is still the hardest :).
 
 ### 📫 How to reach me: 
